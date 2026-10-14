@@ -169,8 +169,3 @@ The generated customer segments provide a foundation for targeted marketing, cus
 - Interactive Power BI dashboards
 - Personalized marketing campaign analysis
 
-## Author
-
-**K Shivaram Goud**  
-Data Analytics Intern  
-B.Tech — Artificial Intelligence and Machine Learning
